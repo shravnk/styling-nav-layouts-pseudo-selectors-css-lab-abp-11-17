@@ -65,7 +65,7 @@ div.questions p{margin-top: 30px}
 
 nav a:hover{text-decoration: underline;color: #0056b3}
 
-woof a:hover{text-decoration: underline;}
+woof a:hover{text-decoration: underline}
 
 div.questions .btn a{border-radius : 5px; color: #FFF; background-color: #007bff; border-color: #007bff; text-decoration: none; padding: 18px; font-size: 20px}
 }
