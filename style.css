@@ -31,6 +31,11 @@ nav a {
   font-size: 18px;
 }
 
+nav a:hover{
+  text-decoration: underline;
+  color: #0056b3;
+}
+
 #header a{
   text-decoration: none;
   color: #868e96;
@@ -63,7 +68,7 @@ div.questions p{margin-top: 30px}
   line-height: 40px;
 }
 
-nav a:hover{text-decoration: underline;color: #0056b3}
+
 
 woof a:hover{text-decoration: underline}
 
