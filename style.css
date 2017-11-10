@@ -47,7 +47,11 @@ div.jumbotron {
   text-align: center;
 }
 
-div.questions {}
+div.questions {padding: 0 20px 0 20px}
+
+div.questions h4{font-size: 30px;   margin-bottom: 10px}
+
+div.questions p{margin-top: 30px}
 
 .jumbotron h1{
   font-size: 60px;
@@ -62,6 +66,8 @@ div.questions {}
 nav a:hover{text-decoration: underline;color: #0056b3}
 
 woof a:hover{text-decoration: underline;}
+
+div.questions .btn a{border-radius : 5px; color: #FFF; background-color: #007bff; border-color: #007bff; text-decoration: none; padding: 18px; font-size: 20px}
 }
 
 footer{
