@@ -31,7 +31,7 @@ nav a {
   font-size: 18px;
 }
 
-nav a:hover{
+#header a:hover{
   text-decoration: underline;
   color: #0056b3;
 }
