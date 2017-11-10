@@ -47,6 +47,8 @@ div.jumbotron {
   text-align: center;
 }
 
+div.questions {}
+
 .jumbotron h1{
   font-size: 60px;
 }
